@@ -227,10 +227,10 @@ const AppointmentForm: React.FC = () => {
                     className="w-full p-3 border border-gray-300 rounded-lg outline-none transition"
                   >
                     <option value="" hidden>Select a doctor (optional)</option>
-                    <option value="Dr. Beatrice Cox">Dr. Sherif Emad - Surgeon</option>
-                    <option value="Dr. Austin Camacho">Dr. Sara Mohammed - Surgeon</option>
-                    <option value="Dr. Fletcher Morse">Dr. Aian Musa - Dentist</option>
-                    <option value="Dr. Ayesha Hayes">Dr. Aseel Ali - Orthodontist</option>
+                    <option value="Dr. Sherif Emad - Surgeon">Dr. Sherif Emad - Surgeon</option>
+                    <option value="Dr. Sara Mohammed - Surgeon">Dr. Sara Mohammed - Surgeon</option>
+                    <option value="Dr. Aian Musa - Dentist">Dr. Aian Musa - Dentist</option>
+                    <option value="Dr. Aseel Ali - Orthodontist">Dr. Aseel Ali - Orthodontist</option>
                   </select>
                 </div>
 

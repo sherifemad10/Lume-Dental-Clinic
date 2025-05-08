@@ -194,8 +194,30 @@ Reason: ${data.reason}
             )}
           />
           
+          <FormField
+            control={form.control}
+            name="time"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Time</FormLabel>
+                <FormControl>
+                  <select
+                    className="w-full p-2 border rounded-md"
+                    {...field}
+                  >
+                    <option value="">Select a time</option>
+                    {availableTimes.map((time) => (
+                      <option key={time} value={time}>
+                        {time}
+                      </option>
+                    ))}
+                  </select>
+                </FormControl>
+                <FormMessage />
+              </FormItem>
+            )}
+          />
           
-
           <FormField
             control={form.control}
             name="reason"
