@@ -63,7 +63,7 @@ const HeroSection = () => {
         <div className="relative">
           <div className="rounded-2xl overflow-hidden aspect-[4/5] shadow-xl">
             <img
-              src="./hero.jpeg"
+              src="./mainimg.jpeg"
               alt="Smiling woman with toothbrush"
               className="w-full h-full object-cover"
             />
