@@ -108,7 +108,7 @@ const AppointmentForm: React.FC = () => {
         `Time: ${formData.time}%0A` +
         `Reason: ${formData.reason}%0A` +
         `New Patient: ${formData.isNewPatient ? 'Yes' : 'No'}`;
-      const whatsappUrl = `https://wa.me/201145455951?text=${message}`;
+      const whatsappUrl = `https://wa.me/201210587417?text=${message}`;
       window.open(whatsappUrl, '_blank');
       setIsSubmitted(true);
       setTimeout(() => {
