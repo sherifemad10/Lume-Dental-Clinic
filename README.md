@@ -1,73 +1,30 @@
-# Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/c4247852-4320-4705-88a7-250e8ca4833e
+# **Lume — The Smart Booking System for Lume Dental**
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## **Overview**
 
-**Use Lovable**
+**Lume** was designed to solve one of the biggest challenges in dental centers — **long waiting times** and complicated booking processes. With **Dento**, patients can book their consultation appointments effortlessly, right from their phone or computer, and enjoy a more organized and efficient visit.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c4247852-4320-4705-88a7-250e8ca4833e) and start prompting.
+## **Key Features**
 
-Changes made via Lovable will be committed automatically to this repo.
+* **Easy Appointment Booking**
+  Patients can quickly fill out their information, **select the doctor they want**, and choose the most convenient time for their visit.
 
-**Use your preferred IDE**
+* **Doctor Availability Filtering**
+  Once a doctor is selected, **only the days and times they are available will appear**, ensuring a smoother booking experience and eliminating scheduling conflicts.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **WhatsApp Integration for Confirmation**
+  After submitting the form, all appointment details are automatically sent to the clinic via **WhatsApp**, allowing for fast and direct communication with the patient.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Minimized Waiting Times**
+  The system helps reduce crowding by notifying patients when their turn is approaching, so they only come in when it's time — saving everyone time and hassle.
 
-Follow these steps:
+## **Benefits for Your Clinic**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* Professional and modern online presence
+* Reduces administrative workload and phone calls
+* Improves patient satisfaction with a smooth and smart user experience
+* Helps doctors manage time more efficiently by syncing with their availability
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c4247852-4320-4705-88a7-250e8ca4833e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
