@@ -25,7 +25,7 @@ const doctors: Doctor[] = [
     name: "Dr. Sara Mohammed",
     role: "Surgeon",
     category: "surgeon",
-    image: "./Sara.jpeg",
+    image: "./Meio.jpg",
     availableDays: ["Tuesday", "Thursday"]
   },
   {
@@ -41,7 +41,7 @@ const doctors: Doctor[] = [
     name: "Dr. Aseel Ali",
     role: "Orthodontist",
     category: "orthodontist",
-    image: "./Aseel.jpeg",
+    image: "./Aseel.jpg",
     availableDays: ["Tuesday", "Saturday"]
   },
 ];
