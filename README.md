@@ -2,6 +2,8 @@
 
 # **Lume — The Smart Booking System for Lume Dental**
 
+<img width="1748" height="1240" alt="Lume" src="https://github.com/user-attachments/assets/99166f8a-2cdf-4efa-a3c1-804fdf2d6fab" />
+
 
 ## **Overview**
 
